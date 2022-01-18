@@ -1,4 +1,4 @@
 # Favorite-cmd-commands
 
-<p>$ CD</p>
+## `$ CD`
 We use to move between directories on the computer
